@@ -1,10 +1,11 @@
 # Machine-Learning
-This repository is for scientific and educational purposes. It shows my work on recreating mathematical algorithms and models from academic papers 
+This repository is for scientific and educational purposes. 
+It shows my work on recreating mathematical algorithms and models from academic papers 
 
 
 1. Bayes Algorithm 
 
-Inspired by academic paper found https://people.eecs.berkeley.edu/~jordan/courses/281A-fall04/lectures/lec-9-30.pdf
+Inspired by the academic paper found here: https://people.eecs.berkeley.edu/~jordan/courses/281A-fall04/lectures/lec-9-30.pdf
 
 
 ![f1]
@@ -40,7 +41,7 @@ Step M:
 
 
 
-3. Regressions
+3. Regressions - in progress
 
 
 
